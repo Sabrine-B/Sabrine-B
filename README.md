@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ![image](https://user-images.githubusercontent.com/112695855/219734724-07f531e8-318d-45b6-a126-a2bf40d3589b.png)
 
 <!--
 **Sabrine-B/Sabrine-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
